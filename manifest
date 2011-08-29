@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2010 by Your Company
+
+
+# these should not be edited
+name: utils
+moduleid: com.clearlyinnovative.utils
+guid: c8ef6dc3-60d2-41bc-a5a1-84e146b92d0b
+platform: iphone
+minsdk: 1.6.0
